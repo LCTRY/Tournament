@@ -1,7 +1,7 @@
 function Photos (){
     return(
-        <div>
-            <h1>Photos page</h1>
+        <div className="photos">
+            <h1 className ="Photos__title">Tournament Pictures</h1>
         </div>
     )
 }

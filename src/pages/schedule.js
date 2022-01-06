@@ -1,7 +1,7 @@
 function Schedule (){
     return(
-        <div>
-            <h1>Schedule page</h1>
+        <div className="schedule">
+            <h1 className ="schedule__title">Tournament Schedule</h1>
         </div>
     )
 }

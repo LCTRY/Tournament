@@ -1,8 +1,7 @@
 function Home (){
     return(
-        <div>
-            <h1>home page</h1>
-            <p>Welcome to KC Ice Breaker Tournament</p>
+        <div className="home">
+            <h1 className ="home__title">Welcome to KC Ice Breaker Tournament</h1>
         </div>
     )
 }

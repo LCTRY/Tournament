@@ -1,7 +1,7 @@
 function Standings (){
     return(
-        <div>
-            <h1>Standings page</h1>
+        <div className="standings">
+            <h1 className ="standings__title">Tournament Standings</h1>
         </div>
     )
 }
