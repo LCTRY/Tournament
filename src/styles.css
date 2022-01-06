@@ -1,0 +1,43 @@
+:root {
+  --clr-light: rgba(255, 255, 255, 0.925);
+  --clr-accent: rgb(238, 93, 4);
+  --clr-dark: rgba(0, 0, 0, 0.884);
+
+  --fs-h1: 5rem;
+  --fs-h1: 5rem;
+}
+
+body,
+html {
+  margin: 0;
+  height: 100vh;
+}
+
+.header {
+  background: var(--clr-accent);
+  background: linear-gradient(
+    90deg,
+    var(--clr-accent) 0%,
+    var(--clr-light) 94%
+  );
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+}
+
+.header__title {
+  color: var(--clr-dark);
+  grid-column: 2/3;
+  text-align: center;
+  font-size: var(--fs-h1);
+}
+
+.footer {
+  background: var(--clr-accent);
+  background: linear-gradient(
+    90deg,
+    var(--clr-accent) 0%,
+    var(--clr-light) 94%
+  );
+  display: grid;
+  grid-template-columns: 10% 80% 10%;
+}
