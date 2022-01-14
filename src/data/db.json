@@ -1,0 +1,437 @@
+{
+  "teams": [
+    {
+      "name": "Cougars",
+      "coach": "Hector Young",
+      "manager": {
+        "name": "Yan To",
+        "phone": "7809536045",
+        "email": "Yanandlong@gmail.com"
+      },
+      "record": {
+        "wins": 0,
+        "loss": 0,
+        "tie": 0
+      },
+      "age": "U11",
+      "tier": "1",
+      "status": "approved",
+      "id": 1
+    },
+    {
+      "name": "AIcemen",
+      "coach": "Peter Gouveia",
+      "manager": {
+        "name": "Pam Scott",
+        "phone": "",
+        "email": "scriptouriumgirl@gmail.com"
+      },
+      "record": {
+        "wins": 0,
+        "loss": 0,
+        "tie": 0
+      },
+      "age": "U11",
+      "tier": "1",
+      "status": "approved",
+      "id": 2
+    },
+    {
+      "name": "Fort Sask",
+      "coach": "Danny",
+      "manager": {
+        "name": "Stephanie",
+        "phone": "",
+        "email": ""
+      },
+      "record": {
+        "wins": 0,
+        "loss": 0,
+        "tie": 0
+      },
+      "age": "U11",
+      "tier": "1",
+      "status": "approved",
+      "id": 3
+    },
+    {
+      "name": "Oilers",
+      "coach": "Tippett",
+      "manager": {
+        "name": "Holland",
+        "phone": "780-999-9999",
+        "email": "Oilers@oilers.com"
+      },
+      "record": {
+        "wins": 0,
+        "loss": 0,
+        "tie": 0
+      },
+      "age": "U9",
+      "tier": "1",
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "name": "Flames",
+      "coach": "Peter",
+      "manager": {
+        "name": "Pam",
+        "phone": "790-999-9999",
+        "email": "hectorayoung@gmail.com"
+      },
+      "record": {
+        "wins": 0,
+        "loss": 0,
+        "tie": 0
+      },
+      "age": "U9",
+      "tier": "1",
+      "status": "pending",
+      "id": 5
+    }
+  ],
+  "Schedule": [
+    {
+      "date": "23-Sep-21",
+      "time": "6:00PM",
+      "arena": "KC arena",
+      "home": "A1",
+      "visitor": "A2",
+      "desc": "Round Robin",
+      "id": 1
+    },
+    {
+      "date": "23-Sep-21",
+      "time": "6:00PM",
+      "arena": "Michael Cameron",
+      "home": "B1",
+      "visitor": "B2",
+      "desc": "Round Robin",
+      "id": 2
+    },
+    {
+      "date": "24-Sep-21",
+      "time": "6:15PM",
+      "arena": "KC arena",
+      "home": "A3",
+      "visitor": "A4",
+      "desc": "Round Robin",
+      "id": 3
+    },
+    {
+      "date": "24-Sep-21",
+      "time": "6:15PM",
+      "arena": "Bon Accord",
+      "home": "B3",
+      "visitor": "B4",
+      "desc": "Round Robin",
+      "id": 4
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "6:15PM",
+      "arena": "Bon Accord",
+      "home": "A1",
+      "visitor": "A3",
+      "desc": "Round Robin",
+      "id": 5
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "9:00AM",
+      "arena": "Bon Accord",
+      "home": "A2",
+      "visitor": "A4",
+      "desc": "Round Robin",
+      "id": 6
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "9:00AM",
+      "arena": "Bon Accord",
+      "home": "A2",
+      "visitor": "A4",
+      "desc": "Round Robin",
+      "id": 7
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "10:45AM",
+      "arena": "Bon Accord",
+      "home": "B1",
+      "visitor": "B3",
+      "desc": "Round Robin",
+      "id": 8
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "12:30PM",
+      "arena": "Bon Accord",
+      "home": "B2",
+      "visitor": "B4",
+      "desc": "Round Robin",
+      "id": 9
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "2:15PM",
+      "arena": "Bon Accord",
+      "home": "A1",
+      "visitor": "A4",
+      "desc": "Round Robin",
+      "id": 10
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "4:00PM",
+      "arena": "Bon Accord",
+      "home": "A2",
+      "visitor": "A3",
+      "desc": "Round Robin",
+      "id": 11
+    },
+    {
+      "date": "25-Sep-21",
+      "time": "5:45PM",
+      "arena": "Bon Accord",
+      "home": "B1",
+      "visitor": "B4",
+      "desc": "Round Robin",
+      "id": 12
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "9:00AM",
+      "arena": "Bon Accord",
+      "home": "B 1st",
+      "visitor": "A 2nd",
+      "desc": "playoffs",
+      "id": 13
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "10:45AM",
+      "arena": "Bon Accord",
+      "home": "A 1st",
+      "visitor": "B 2nd",
+      "desc": "playoffs",
+      "id": 14
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "12:30PM",
+      "arena": "Bon Accord",
+      "home": "A 3rd ",
+      "visitor": "B 3rd ",
+      "desc": "consolation",
+      "id": 15
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "2:15PM",
+      "arena": "Bon Accord",
+      "home": "A 4th",
+      "visitor": "B 4th",
+      "desc": "consolation",
+      "id": 16
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "4:00PM",
+      "arena": "Bon Accord",
+      "home": "Loser of 13",
+      "visitor": "Loser of 14",
+      "desc": "Bronze",
+      "id": 17
+    },
+    {
+      "date": "26-Sep-21",
+      "time": "5:45PM",
+      "arena": "Bon Accord",
+      "home": "Winner of 14",
+      "visitor": "Winner of 13",
+      "desc": "Gold",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "url": "http://localhost:3000/images/1.jpg",
+      "alt": "hockey pic",
+      "id": 1
+    },
+    {
+      "url": "http://localhost:3000/images/2.jpg",
+      "alt": "hockey pic",
+      "id": 2
+    },
+    {
+      "url": "http://localhost:3000/images/3.jpg",
+      "alt": "hockey pic",
+      "id": 3
+    },
+    {
+      "url": "http://localhost:3000/images/4.jpg",
+      "alt": "hockey pic",
+      "id": 4
+    },
+    {
+      "url": "http://localhost:3000/images/5.jpg",
+      "alt": "hockey pic",
+      "id": 5
+    },
+    {
+      "url": "http://localhost:3000/images/6.jpg",
+      "alt": "hockey pic",
+      "id": 6
+    },
+    {
+      "url": "http://localhost:3000/images/7.jpg",
+      "alt": "hockey pic",
+      "id": 7
+    },
+    {
+      "url": "http://localhost:3000/images/8.jpg",
+      "alt": "hockey pic",
+      "id": 8
+    },
+    {
+      "url": "http://localhost:3000/images/9.jpg",
+      "alt": "hockey pic",
+      "id": 9
+    },
+    {
+      "url": "http://localhost:3000/images/10.jpg",
+      "alt": "hockey pic",
+      "id": 10
+    },
+    {
+      "url": "http://localhost:3000/images/11.jpg",
+      "alt": "hockey pic",
+      "id": 11
+    },
+    {
+      "url": "http://localhost:3000/images/12.jpg",
+      "alt": "hockey pic",
+      "id": 12
+    },
+    {
+      "url": "http://localhost:3000/images/13.jpg",
+      "alt": "hockey pic",
+      "id": 13
+    },
+    {
+      "url": "http://localhost:3000/images/14.jpg",
+      "alt": "hockey pic",
+      "id": 14
+    },
+    {
+      "url": "http://localhost:3000/images/15.jpg",
+      "alt": "hockey pic",
+      "id": 15
+    }
+  ],
+  "auction": [
+    {
+      "desc": "Connor McDavid Edmonton Oilers Authentic Home Jersey",
+      "price": "100",
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction1.png",
+      "isVisible": "carousel__item-visible",
+      "id": 1
+    },
+    {
+      "desc": "Apple Air Buds Classic",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction2.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 2
+    },
+    {
+      "desc": "Two Edmonton Oilers vs Arizona Coyotes Tickets",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction3.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 3
+    },
+    {
+      "desc": "Sony Playstation 5",
+      "price": 500,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction4.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 4
+    },
+    {
+      "desc": "JBC Bluetooth Speaker",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction5.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 5
+    },
+    {
+      "desc": "Calgary Flames Jersey",
+      "price": 1,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction6.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 6
+    },
+    {
+      "desc": "Samsung Active 2 Smart Watch",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction7.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 7
+    },
+    {
+      "desc": "Yoga matt",
+      "price": 25,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction8.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 8
+    },
+    {
+      "desc": "Razer Gaming Headset",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction9.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 9
+    },
+    {
+      "desc": "Razer Gaming Mouse",
+      "price": 100,
+      "current": "No Bids",
+      "email": "",
+      "phone": "",
+      "url": "http://localhost:3000/images/auction10.png",
+      "isVisible": "carousel__item-hidden",
+      "id": 10
+    }
+  ]
+}

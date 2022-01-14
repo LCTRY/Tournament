@@ -1,3 +1,4 @@
+import {Link } from "react-router-dom"
 
 function Header (){
 
@@ -12,7 +13,7 @@ function Header (){
                 </button>
 
             <h1 className="header__title">KC Ice Breaker Tournament</h1>
-            <img className="header__logo" src={require('../Images/KCLogo.png')} alt='KC Logo' />
+            <Link className="header__logo" to="/"> <img className="header__logo" src={require('../Images/KCLogo.png')} alt='KC Logo' /></Link>
         </div>
     )
 }
