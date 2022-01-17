@@ -1,7 +1,17 @@
-# Tournament
+KC Ice Breakters Tournament 
+
+# Created
 Created by Hector Young
 
 # Created for KC Cougars and KC Icemen Ice Breakers Tournament
 
-# Required
-useForms
+# Summary
+Tournament page to view KC Ice Breaker Tournament information.  This includes tournament details, game schedule, team standings, silent auction items, tournmanet photos. Ability for potential teams to submit registration request and to bid on silent auction items. 
+
+# Run locally
+- run npm install
+- run npm start
+
+# Tech Stack
+React
+
