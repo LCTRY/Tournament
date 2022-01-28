@@ -1,4 +1,4 @@
-KC Ice Breakters Tournament 
+KC Ice Breakers Tournament 
 
 # Created
 Created by Hector Young
@@ -10,6 +10,8 @@ Tournament page to view KC Ice Breaker Tournament information.  This includes to
 
 # Run locally
 - run npm install
+- run npm install --save-dev webpack
+
 - run npm start
 - run npx json-server --watch src/data/db.json --port 8000
 
