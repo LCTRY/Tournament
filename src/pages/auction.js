@@ -56,7 +56,7 @@ function Auction (){
     return(
         <div className="auction">
             <h1 className ="auction__title">Silent Auction</h1>
-            <div clasName="auction_body">
+            <div className="auction_body">
                 {response && <div className="message"> {response} </div>}
                 {auctionElement}
             </div>
