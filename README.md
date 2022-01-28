@@ -11,6 +11,7 @@ Tournament page to view KC Ice Breaker Tournament information.  This includes to
 # Run locally
 - run npm install
 - run npm start
+- run npx json-server --watch src/data/db.json --port 8000
 
 # Tech Stack
 React
